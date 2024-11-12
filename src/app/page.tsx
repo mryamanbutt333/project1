@@ -2,7 +2,7 @@
 
 
 import Hero from "@/Components/Hero";
-import Image from "next/image";
+// import Image from "next/image";
 import Medicine from "@/Components/Medicine";
 import Contact from "@/Components/Contact";
 import About from "@/Components/About";
