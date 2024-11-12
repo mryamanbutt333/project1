@@ -1,6 +1,5 @@
 "use client"
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 
 import Hero from "@/Components/Hero";
 // import Image from "next/image";
